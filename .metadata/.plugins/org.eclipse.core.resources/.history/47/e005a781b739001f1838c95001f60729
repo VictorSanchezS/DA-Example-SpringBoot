@@ -1,0 +1,5 @@
+package com.asistencia.empleados.service;
+
+public interface AreaService {
+
+}
