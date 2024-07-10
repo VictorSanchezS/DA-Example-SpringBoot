@@ -96,10 +96,6 @@ public class ClienteServiceImpl implements ClienteService{
 				throw new ValidateServiceException("Ya hay un registro con ese nombre");
 			}
 			clienteDb.setNombre(obj.getNombre());			
-			clienteDb.setDocumento(obj.getDocumento());			
-			clienteDb.setTelefono(obj.getTelefono());			
-			clienteDb.setDireccion(obj.getDireccion());			
-			clienteDb.setEmail(obj.getEmail());			
 			return repository.save(clienteDb);
 			
 		} catch (ValidateServiceException e) {

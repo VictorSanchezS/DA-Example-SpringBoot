@@ -14,4 +14,8 @@ public class MainController {
 	public String getClientes(Model model) {
 		return "cliente";
 	}
+	@GetMapping("/productos")
+	public String getProductos(Model model) {
+		return "producto";
+	}
 }

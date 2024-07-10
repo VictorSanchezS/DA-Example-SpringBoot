@@ -1,44 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value=""/>
+		<item key="selection" value="guardar"/>
 		<item key="wrap" value="true"/>
-		<item key="casesensitive" value="false"/>
+		<item key="casesensitive" value="true"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
-			<item value="Categorías"/>
-			<item value="categoria"/>
-			<item value="Categoría"/>
-			<item value="Categoria"/>
-			<item value="categoría"/>
-			<item value="com.uss.facturacion.almacen."/>
-			<item value="com.asistencia.empleados."/>
-			<item value="almacen"/>
-			<item value="evento"/>
+			<item value="guardar"/>
+			<item value="Cliente"/>
+			<item value="cliente"/>
 			<item value="console"/>
-			<item value="titulo"/>
-			<item value="Asistente"/>
-			<item value="Ubicacion"/>
-			<item value="asistentees"/>
-			<item value="organizador"/>
+			<item value="jackson"/>
+			<item value="success"/>
+			<item value="permiso"/>
+			<item value="Permiso"/>
+			<item value="Empleado"/>
+			<item value="empleado"/>
+			<item value="urlEmpleados"/>
+			<item value="nueva"/>
+			<item value="Nueva Permiso"/>
+			<item value="ficha"/>
+			<item value="area"/>
 		</list>
 		<list key="replacehistory">
-			<item value="Area"/>
+			<item value="Producto"/>
+			<item value="producto"/>
+			<item value="asistencia"/>
+			<item value="Asistencia"/>
+			<item value="empleado"/>
+			<item value="Empleado"/>
+			<item value="Permiso"/>
+			<item value="permiso"/>
 			<item value="area"/>
+			<item value="Area"/>
 			<item value="com.asistencia.empleados."/>
 			<item value="evento"/>
 			<item value="Evento"/>
 			<item value="asistentes"/>
 			<item value="asistente"/>
-			<item value="Asistente"/>
-			<item value="Organizador"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="1181"/>
-		<item key="DIALOG_Y_ORIGIN" value="331"/>
+		<item key="DIALOG_X_ORIGIN" value="1297"/>
+		<item key="DIALOG_Y_ORIGIN" value="297"/>
 		<item key="DIALOG_WIDTH" value="414"/>
 		<item key="DIALOG_HEIGHT" value="454"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
