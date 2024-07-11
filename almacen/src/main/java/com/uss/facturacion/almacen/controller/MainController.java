@@ -6,16 +6,16 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 @Controller
 public class MainController {
-	@GetMapping("/categorias")
-	public String getCategorias(Model model) {
-		return "categoria";
+	@GetMapping("/aulas")
+	public String getAulas(Model model) {
+		return "aula";
 	}
 	@GetMapping("/clientes")
 	public String getClientes(Model model) {
 		return "cliente";
 	}
-	@GetMapping("/productos")
-	public String getProductos(Model model) {
-		return "producto";
+	@GetMapping("/alumnos")
+	public String getAlumnos(Model model) {
+		return "alumno";
 	}
 }
